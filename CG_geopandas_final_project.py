@@ -17,7 +17,7 @@ os.chdir('G:/Python/.jupyter/MSDS670/')
 #%%
 
 #Load geoshape files of North Carolina's census tracts 
-##Need to first unzip the 'zipped_tl_2019_37_tract.shp' file from github
+##Need to first unzip the 'zipped_tl_2019_37_tract.7z' file from github
 ##Original fie retrieved from https://www.census.gov/cgi-bin/geo/shapefiles/index.php
 
 NCsf ='tl_2019_37_tract.shp'
